@@ -1,0 +1,14 @@
+D:\Users\20241170150075\Downloads\ozymandias\obj\Debug\net8.0\ozymandias.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150075\Downloads\ozymandias\obj\Debug\net8.0\ozymandias.AssemblyInfoInputs.cache
+D:\Users\20241170150075\Downloads\ozymandias\obj\Debug\net8.0\ozymandias.AssemblyInfo.cs
+D:\Users\20241170150075\Downloads\ozymandias\obj\Debug\net8.0\ozymandias.csproj.CoreCompileInputs.cache
+D:\Users\20241170150075\Downloads\ozymandias\bin\Debug\net8.0\ozymandias.exe
+D:\Users\20241170150075\Downloads\ozymandias\bin\Debug\net8.0\ozymandias.deps.json
+D:\Users\20241170150075\Downloads\ozymandias\bin\Debug\net8.0\ozymandias.runtimeconfig.json
+D:\Users\20241170150075\Downloads\ozymandias\bin\Debug\net8.0\ozymandias.dll
+D:\Users\20241170150075\Downloads\ozymandias\bin\Debug\net8.0\ozymandias.pdb
+D:\Users\20241170150075\Downloads\ozymandias\obj\Debug\net8.0\ozymandias.dll
+D:\Users\20241170150075\Downloads\ozymandias\obj\Debug\net8.0\refint\ozymandias.dll
+D:\Users\20241170150075\Downloads\ozymandias\obj\Debug\net8.0\ozymandias.pdb
+D:\Users\20241170150075\Downloads\ozymandias\obj\Debug\net8.0\ozymandias.genruntimeconfig.cache
+D:\Users\20241170150075\Downloads\ozymandias\obj\Debug\net8.0\ref\ozymandias.dll
